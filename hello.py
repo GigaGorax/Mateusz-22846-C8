@@ -1,1 +1,1 @@
-print("zmiana ze hej")
+print("zmiana ze hej hej hej")
